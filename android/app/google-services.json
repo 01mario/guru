@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "672142225413",
+    "project_id": "flutterfooddite",
+    "storage_bucket": "flutterfooddite.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672142225413:android:06fded6a8d379762926c6c",
+        "android_client_info": {
+          "package_name": "com.example.yailaahi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw9Q2hlb2vKS3q3Z-QVBlXue43fWj5PwQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
